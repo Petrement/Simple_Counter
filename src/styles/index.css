@@ -14,13 +14,12 @@
     color: white;
     padding: 45px;
 }
-.Click{
-    background: red;
-    margin: auto;
-    width: 200px;
-    padding: 40px;
+.buttons {
+    margin: 50px;
     box-shadow: 0px 10px 15px rgba(red, green, blue, alpha);
     border-radius:20px;
     display: flex;
-    font-size: 50px;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
 }
